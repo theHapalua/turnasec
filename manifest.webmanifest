@@ -1,0 +1,16 @@
+{
+  "name": "Turna Sec",
+  "short_name": "Turna Sec",
+  "description": "A Blog on web security, technology and recent updates.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#F94C10",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
