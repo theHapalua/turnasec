@@ -6,7 +6,18 @@
     <link>https://turnasec.com</link>
     <atom:link href="https://turnasec.com/rss.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Feb 2026 09:54:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 10:42:23 GMT</lastBuildDate>
+    <item>
+      <title>Just-in-Time (JIT) Access: The Future of Secure Network Permissions</title>
+      <link>https://turnasec.com/blog/jit-access/</link>
+      <guid>https://turnasec.com/blog/jit-access/</guid>
+      <description>Why Just-in-Time Access is the most effective way to secure your network</description>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+      <author>Enes</author>
+      <category>JIT</category>
+        <category>Access Control</category>
+        <category>Security</category>
+    </item>
     <item>
       <title>End of End-of-Support: OpenEoX</title>
       <link>https://turnasec.com/blog/end-of-end-of-support/</link>
