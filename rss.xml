@@ -6,7 +6,19 @@
     <link>https://turnasec.com</link>
     <atom:link href="https://turnasec.com/rss.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Mar 2026 10:47:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 13:38:38 GMT</lastBuildDate>
+    <item>
+      <title>Wired Connection Fundamentals</title>
+      <link>https://turnasec.com/blog/wired-connection-fundamentals/</link>
+      <guid>https://turnasec.com/blog/wired-connection-fundamentals/</guid>
+      <description>Understanding the basics of IEEE 802 Standards</description>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
+      <author>Enes</author>
+      <category>IEEE 802</category>
+        <category>Wired Networking</category>
+        <category>Ethernet</category>
+        <category>Networking Fundamentals</category>
+    </item>
     <item>
       <title>Just-in-Time (JIT) Access: The Future of Secure Network Permissions</title>
       <link>https://turnasec.com/blog/jit-access/</link>
