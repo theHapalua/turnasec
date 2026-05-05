@@ -6,7 +6,18 @@
     <link>https://turnasec.com</link>
     <atom:link href="https://turnasec.com/rss.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 May 2026 13:38:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 11:14:01 GMT</lastBuildDate>
+    <item>
+      <title>Taking Off the Wire: How does wireless networking work?</title>
+      <link>https://turnasec.com/blog/taking-off-the-wire/</link>
+      <guid>https://turnasec.com/blog/taking-off-the-wire/</guid>
+      <description>Explanation of how wireless networking works.</description>
+      <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+      <author>Enes</author>
+      <category>Wifi</category>
+        <category>Wireless Networking</category>
+        <category>Networking Fundamentals</category>
+    </item>
     <item>
       <title>Wired Connection Fundamentals</title>
       <link>https://turnasec.com/blog/wired-connection-fundamentals/</link>
